@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT pets (pet+)>
+<!ELEMENT pet (species, type, nickname, color, age, gender)>
+<!ELEMENT species (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT nickname (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ATTLIST pet id CDATA #REQUIRED>

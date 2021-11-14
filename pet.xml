@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML document describes the pets that live in Boyang's Apartment -->
+<!DOCTYPE pets SYSTEM "pet.dtd">
+<pets>
+    <pet id="Gulu">
+        <species>Cat</species>
+        <type>Ragdoll</type>
+        <nickname>Big Fatty</nickname>
+        <color>Seal</color>
+        <age>5</age>
+        <gender>Boy</gender>
+    </pet>
+    <pet id="Hulu">
+        <species>Cat</species>
+        <type>Ragdoll</type>
+        <nickname>Small Fatty</nickname>
+        <color>Grey</color>
+        <age>5</age>
+        <gender>Boy</gender>
+    </pet>
+    <pet id="Maki">
+        <species>Dog</species>
+        <type>Shiba Inu</type>
+        <nickname>Kitty Troublemaker</nickname>
+        <color>Black</color>
+        <age>2</age>
+        <gender>Girl</gender>
+    </pet>
+</pets>
