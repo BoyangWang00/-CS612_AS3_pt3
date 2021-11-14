@@ -13,3 +13,5 @@ You will see validation result
 run javac domParserDTD.java  
 run java domParserDTD  
 You will see validation result  
+
+run python3 python_parser.py  
