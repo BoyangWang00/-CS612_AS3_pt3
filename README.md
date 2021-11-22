@@ -33,3 +33,7 @@ You will see validation result
 ```
 python3 python_parser.py  
 ```
+
+
+
+Please see the video for more details [CS612_AS3_pt3](https://drive.google.com/file/d/1aA7jpTExweFIVcAeDuFhfizM_OrGL6Xv/view?usp=sharing)
